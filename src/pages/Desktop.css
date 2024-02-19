@@ -1,9 +1,22 @@
+.rectangle-parent {
+  position: relative;
+  width: 100%; /* Занимает всю доступную ширину экрана */
+  height: 86px;
+}
+
 .component-7 {
   position: absolute;
   top: 20px;
-  left: 1292px;
-  width: 74px;
+  left: 5%; /* Отступ слева на 5% от ширины родительского контейнера */
+  width: 90%; /* Занимает 90% ширины родительского контейнера */
   height: 46px;
+}
+
+
+@media (max-width: 768px) {
+  .component-7 {
+    height: 30px; /* Пример уменьшения высоты на маленьких экранах */
+  }
 }
 .component-child {
   position: absolute;
@@ -36,7 +49,7 @@
 .ellipse-div {
   position: absolute;
   top: 8px;
-  left: 89.5%;
+  left: 65%;
   border-radius: 50%;
   background-color: var(--color-thistle-200);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
@@ -52,7 +65,7 @@
 .div1 {
   position: absolute;
   top: 22.09%;
-  left: 90.57%;
+  left: 66%;
   color: var(--color-darkslateblue-200);
   cursor: pointer;
 }

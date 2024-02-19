@@ -1,8 +1,8 @@
 .component-7 {
   position: absolute;
   top: 20px;
-  left: 1292px;
-  width: 74px;
+  left: 5%; /* Отступ слева на 5% от ширины родительского контейнера */
+  width: 90%; /* Занимает 90% ширины родительского контейнера */
   height: 46px;
 }
 .component-child {
@@ -57,10 +57,10 @@
   cursor: pointer;
 }
 .rectangle-parent {
-  position: relative  ;
+  position: relative;
   top: 1px;
   left: 0px;
-  width: 3200px;
+  width: 100%; /* Занимает всю доступную ширину экрана */
   height: 86px;
 }
 .component-8-child {

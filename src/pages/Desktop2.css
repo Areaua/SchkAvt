@@ -6,7 +6,7 @@
   right: 0%;
   bottom: 0%;
   left: 0%;
-  background-color: var(--color-lavender-100);
+  background-color: #fae0f5;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
 }
 .component-child5 {
@@ -19,7 +19,7 @@
 .component-child6 {
   position: absolute;
   top: 12px;
-  left: 2887px;
+  left: 2140px;
   border-radius: 50%;
   background-color: var(--color-thistle-200);
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
@@ -52,14 +52,14 @@
   color: var(--color-dimgray-100);
 }
 .rectangle-group {
-  position: relative  ;
+  position: relative;
   top: 1px;
   left: 0px;
-  width: 3200px;
+  width: 100%; /* Занимает всю доступную ширину экрана */
   height: 86px;
-
   color: rgba(30, 28, 30, 0.29);
 }
+
 .component-4-child {
   position: absolute;
   height: 100%;
