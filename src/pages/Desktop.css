@@ -1,0 +1,242 @@
+.component-7 {
+  position: absolute;
+  top: 20px;
+  left: 1292px;
+  width: 74px;
+  height: 46px;
+}
+.component-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: var(--color-lavender-100);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.component-item {
+  position: absolute;
+  top: 3px;
+  left: -8px;
+  width: 98.9px;
+  height: 77.8px;
+}
+.component-inner {
+  position: absolute;
+  top: 8px;
+  left: 91px;
+  border-radius: 50%;
+  background-color: var(--color-darkslateblue-100);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 234px;
+  height: 67px;
+}
+.ellipse-div {
+  position: absolute;
+  top: 8px;
+  left: 89.5%;
+  border-radius: 50%;
+  background-color: var(--color-thistle-200);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+  width: 139px;
+  height: 67px;
+  cursor: pointer;
+}
+.div {
+  position: absolute;
+  top: 19px;
+  left: 116px;
+}
+.div1 {
+  position: absolute;
+  top: 22.09%;
+  left: 90.57%;
+  color: var(--color-darkslateblue-200);
+  cursor: pointer;
+}
+.rectangle-parent {
+  position: relative  ;
+  top: 1px;
+  left: 0px;
+  width: 3200px;
+  height: 86px;
+}
+.component-8-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0%;
+  right: 0%;
+  bottom: 0%;
+  left: 0%;
+  background-color: var(--color-plum);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25) inset;
+}
+.component-8-item {
+  position: absolute;
+  height: 7.83%;
+  width: 75.53%;
+  top: 28.26%;
+  right: 12.24%;
+  bottom: 63.91%;
+  left: 12.24%;
+  background-color: var(--color-thistle-100);
+}
+.component-8-inner {
+  position: absolute;
+  height: 7.83%;
+  width: 75.53%;
+  top: 38.55%;
+  right: 12.24%;
+  bottom: 53.62%;
+  left: 12.24%;
+  background-color: var(--color-thistle-100);
+}
+.rectangle-div {
+  position: absolute;
+  height: 7.83%;
+  width: 75.53%;
+  top: 69.42%;
+  right: 12.24%;
+  bottom: 22.75%;
+  left: 12.24%;
+  background-color: var(--color-thistle-100);
+}
+.component-8-child1 {
+  position: absolute;
+  height: 7.83%;
+  width: 75.53%;
+  top: 48.84%;
+  right: 12.24%;
+  bottom: 43.33%;
+  left: 12.24%;
+  background-color: var(--color-thistle-100);
+}
+.span {
+  font-size: var(--font-size-11xl);
+}
+.div2 {
+  position: absolute;
+  top: 7.68%;
+  left: 29.32%;
+  color: var(--color-gray-100);
+  font-size: var(--font-size-13xl);
+}
+
+input {
+  border: none;
+  outline: none;
+  background: transparent; /* Делает фон прозрачным */
+  position: relative; /* Необходимо для позиционирования псевдоэлемента */
+  font-size: 16px; /* Уменьшаем размер шрифта */
+  margin: 0; /* Убираем внешние отступы */
+  padding: 0; /* Убираем внутренние отступы */
+}
+
+
+ .component-8-child2 {
+  position: absolute;
+  height: 7.83%;
+  width: 75.53%;
+  top: 17.97%;
+  right: 12.24%;
+  bottom: 74.2%;
+  left: 12.24%;
+  background-color: var(--color-thistle-100);
+} 
+.component-8-child3 {
+  position: absolute;
+  height: 7.83%;
+  width: 75.53%;
+  top: 59.13%;
+  right: 12.24%;
+  bottom: 33.04%;
+  left: 12.24%;
+  background-color: var(--color-thistle-100);
+}
+.rectangle-icon {
+  position: absolute;
+  height: 6.67%;
+  width: 72.15%;
+  top: 80.14%;
+  right: 13.92%;
+  bottom: 13.19%;
+  left: 13.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div3 {
+  position: absolute;
+  top: 80.87%;
+  left: 24.89%;
+  font-size: var(--font-size-5xl);
+  color: rgba(30, 28, 30, 0.92);
+  cursor: pointer; /* Добавляем курсор указывающий на кнопку */
+}
+.div4 {
+  position: absolute;
+  top: 88.84%;
+  left: 26.37%;
+  font-size: var(--font-size-lgi);
+  color: var(--color-gray-100);
+  cursor: pointer; /* Добавляем курсор указывающий на кнопку */
+}
+
+.div5 {
+  position: absolute;
+  top: 18.99%;
+  left: 13.92%;
+}
+.div6 {
+  position: absolute;
+  top: 29.28%;
+  left: 13.71%;
+}
+.span1 {
+  font-size: var(--font-size-13xl);
+}
+.div7 {
+  position: absolute;
+  top: 38.84%;
+  left: 13.71%;
+}
+.email {
+  position: absolute;
+  top: 49.57%;
+  left: 13.92%;
+}
+.password {
+  position: absolute;
+  top: 60.14%;
+  left: 13.92%;
+}
+.div8 {
+  position: absolute;
+  top: 70.43%;
+  left: 13.92%;
+}
+.component-8 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 474px;
+  height: 690px;
+  font-size: var(--font-size-8xl);
+  color: var(--color-dimgray-200);
+  transform: translate(-50%, -50%);
+}
+
+.desktop-4 {
+  position: relative;
+  background-color: var(--color-snow);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-zen-antique-soft);
+}

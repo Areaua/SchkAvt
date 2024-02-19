@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Antique+Soft:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-zen-antique-soft: "Zen Antique Soft";
+
+  /* font sizes */
+  --font-size-8xl: 27px;
+  --font-size-13xl: 32px;
+  --font-size-lgi: 19px;
+  --font-size-5xl: 24px;
+  --font-size-11xl: 30px;
+  --font-size-6xl: 25px;
+
+  /* Colors */
+  --color-snow: #fef9fd;
+  --color-dimgray-100: rgba(86, 71, 87, 0.26);
+  --color-dimgray-200: rgba(90, 77, 91, 0.76);
+  --color-gray-100: #1e1c1e;
+  --color-gray-200: rgba(30, 28, 30, 0.76);
+  --color-thistle-100: #f4d5f2;
+  --color-thistle-200: #c9abc6;
+  --color-thistle-300: #c6a3c8;
+  --color-thistle-400: rgba(235, 194, 238, 0.38);
+  --color-plum: rgba(243, 182, 230, 0.37);
+  --color-darkslateblue-100: rgba(93, 53, 94, 0.28);
+  --color-darkslateblue-200: rgba(93, 53, 94, 0.29);
+  --color-lavender-100: #f6dcf2;
+}
